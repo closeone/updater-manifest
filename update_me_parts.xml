@@ -37,11 +37,13 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
     <Element>
-			<Name>Applicazione 3</Name>
+			<Name>Enhanced Quick Settings</Name>
 			<Desc>Install</Desc>
-			<Url>http://aaa.zip</Url>
+			<Url>https://dl.dropbox.com/s/ug7oo0r2cg0xid9/SystemUI.apk?dl=1</Url>
 			<Version>1.0.0</Version>
 			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>1</LaunchApp>
 		</Element>
