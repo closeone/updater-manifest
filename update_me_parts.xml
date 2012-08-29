@@ -10,17 +10,17 @@
 			<ExternalLink>0</ExternalLink>
 			<Version>1.0.0</Version>
 			<CheckMD5>0</CheckMD5>
-			<!--<MD5Url>http://aaa.md5sum</MD5Url>   <!-- url where download the md5 of file, delete tag if don't use -->
-			<!--<MD5>12345678901234567890123456789012</MD5> <!-- the md5 of file, delete tag if don't use -->
+			<!--<MD5Url>http://aaa.md5sum</MD5Url>    url where download the md5 of file, delete tag if don't use -->
+			<!--<MD5>12345678901234567890123456789012</MD5>  the md5 of file, delete tag if don't use -->
 			<RebootRecovery>0</RebootRecovery>
 			<Wipe>0</Wipe>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
 			<DestChmod>0644</DestChmod>
 			<LaunchApp>0</LaunchApp>
-			<!-- <Filter>transformer</Filter> <!--Filter for decide if element is show for this rom,if you don't need not insert this line-->
-			<!--<ThumbnailUrl>http://www.vikispot.com/z/images/vikispot/android-w.png</ThumbnailUrl> <!-- Url for little image see on the left of element,if you don't need not insert this line -->
-			<!--<ImageUrl>http://eeepc901.altervista.org/blog/wp-content/uploads/2010/04/android-64.png</ImageUrl> <!-- Image show when click on gallery icon in the element,if you don't need not insert this line -->
-			<!--<ImageUrl>http://www.androidquery.com/z/images/androidquery/github.png</ImageUrl><!-- More then one image ;D,if you don't need not insert this line -->
+			<!-- <Filter>transformer</Filter> Filter for decide if element is show for this rom,if you don't need not insert this line-->
+			<!--<ThumbnailUrl>http://www.vikispot.com/z/images/vikispot/android-w.png</ThumbnailUrl> Url for little image see on the left of element,if you don't need not insert this line -->
+			<!--<ImageUrl>http://eeepc901.altervista.org/blog/wp-content/uploads/2010/04/android-64.png</ImageUrl> Image show when click on gallery icon in the element,if you don't need not insert this line -->
+			<!--<ImageUrl>http://www.androidquery.com/z/images/androidquery/github.png</ImageUrl> More then one image ;D,if you don't need not insert this line -->
     </Element>
   </Tab>
   <Tab>
@@ -29,7 +29,7 @@
 		<Element>
 			<Name>MIUI Battery Bar</Name>
 			<Desc>T.E.A.M. Battery Bar App</Desc>
-			<Url>market://details?id=com.pvy.batterybar</Url>
+			<Url><![CDATA[market://details?id=com.pvy.batterybar]]</Url>
 			<Version>1.0.0</Version>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
