@@ -29,7 +29,7 @@
 		<Element>
 			<Name>MIUI Battery Bar</Name>
 			<Desc>T.E.A.M. Battery Bar App</Desc>
-			<Url><![CDATA[market://details?id=com.pvy.batterybar]]</Url>
+			<Url>market://details?id=com.pvy.batterybar</Url>
 			<Version>1.0.0</Version>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
