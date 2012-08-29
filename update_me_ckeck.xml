@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Version>
+	<Code>0.6.0</Code>
+	<Desc>Flash Player Test Zip</Desc>
+	<Url>https://www.dropbox.com/s/vd3p80mjoj89odf/FlashPlayerInstall.zip?dl=1</Url>
+	<ExternalLink>0</ExternalLink><!-- Open the broser for download the file from <url> tag. Usefull for host like rapidshare, fileshare,ecc, delete tag if don't need-->
+	<HomepageUrl>http://www.google.com</HomepageUrl>
+	<DonateUrl>http://www.donate.com</DonateUrl>
+  <CheckMD5>0</CheckMD5>
+	 <!-- url where download the md5 of file, delete tag if don't use -->
+   <!-- the md5 of file, delete tag if don't use -->
+      
+  <RebootRecovery>1</RebootRecovery>
+  
+</Version>
