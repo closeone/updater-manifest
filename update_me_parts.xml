@@ -145,4 +145,24 @@
 			
 		</App>
 	</Apps>
+	<StockApps>
+		<Name>Stock Apps</Name>
+		<StockApp>
+			<Name>Visual Voicemail</Name>
+			<Desc>Restore the original VVM</Desc>
+			<Url>http://dl.dropbox.com/u/3681387/UpdateMe_1_0_3_beta1.apk</Url>
+			<Version>1.0.0</Version>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+		</StockApp>
+		<StockApp>
+			<Name>App2</Name>
+			<Desc>Theme2</Desc>
+			<Url>http://dl.dropbox.com/u/3681387/UpdateMeSmartphone_beta3.apk</Url>
+			<Version>1.0.0</Version>
+			<CheckMD5>1</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			
+		</StockApp>
+	</StockApps>
 </Elements>
