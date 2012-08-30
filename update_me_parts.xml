@@ -55,8 +55,8 @@
 			<Name>Visual VoiceMail</Name>
 			<Desc>Stock VVM</Desc>
 			<ExternalLink>1</ExternalLink>
-			<Url>market://details?id=com.pvy.batterybar</Url>
-			<Version>1.0.0</Version>
+			<Url>https://www.dropbox.com/s/qsqp176cd6gvjli/vtt-sprint.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -72,6 +72,65 @@
 			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>1</LaunchApp>
+		</Element>
+  </Tab>
+    <Tab>
+		<Name>Skins</Name>
+    <IconNum>2</IconNum>
+		<Element>
+			<Name>Aluminum</Name>
+			<Desc>Stock Aluminum Skin</Desc>
+			<ExternalLink>1</ExternalLink>
+			<Url>https://dl.dropbox.com/s/qcgpueahsyhf42l/Aluminum.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>Fracture</Name>
+			<Desc>Stock Fracture Skin</Desc>
+			<Url>https://dl.dropbox.com/s/d95ar9nzfhi8cuo/Fracture.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>Infinite</Name>
+			<Desc>Stock Infinite Skin</Desc>
+			<Url>https://dl.dropbox.com/s/8o91wpx27u3kl3c/Infinite.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>Matte</Name>
+			<Desc>Stock Matte Skin</Desc>
+			<Url>https://dl.dropbox.com/s/8b6wz2s88c8y263/Matte.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>Serene</Name>
+			<Desc>Stock Serene Skin</Desc>
+			<Url>https://dl.dropbox.com/s/vz28ki306r6lkjt/Serene.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
 		</Element>
   </Tab>
 	<Kernels>
