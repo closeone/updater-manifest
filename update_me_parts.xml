@@ -52,9 +52,9 @@
 		<Name>Stock Apps</Name>
     <IconNum>2</IconNum>
 		<Element>
-			<Name>Visual VoiceMail</Name>
+			<Name>Sprint Visual VoiceMail</Name>
 			<Desc>Stock VVM</Desc>
-			<ExternalLink>1</ExternalLink>
+			<ExternalLink>0</ExternalLink>
 			<Url>https://www.dropbox.com/s/qsqp176cd6gvjli/vtt-sprint.apk?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
@@ -63,10 +63,10 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
     <Element>
-			<Name>Enhanced Quick Settings</Name>
-			<Desc>After Installation, it is recommended that you reboot your phone.</Desc>
-			<Url>https://dl.dropbox.com/s/ug7oo0r2cg0xid9/SystemUI.apk?dl=1</Url>
-			<Version>1.0.0</Version>
+			<Name>Sprint Zone</Name>
+			<Desc>Manage your Sprint account from your phone.</Desc>
+			<Url>https://dl.dropbox.com/s/oihonylfw8b3hs2/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
 			<DestChmod>0644</DestChmod>
