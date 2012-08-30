@@ -48,6 +48,32 @@
 			<LaunchApp>1</LaunchApp>
 		</Element>
   </Tab>
+  <Tab>
+		<Name>Stock Apps</Name>
+    <IconNum>2</IconNum>
+		<Element>
+			<Name>Visual VoiceMail</Name>
+			<Desc>Stock VVM</Desc>
+			<ExternalLink>1</ExternalLink>
+			<Url>market://details?id=com.pvy.batterybar</Url>
+			<Version>1.0.0</Version>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    <Element>
+			<Name>Enhanced Quick Settings</Name>
+			<Desc>After Installation, it is recommended that you reboot your phone.</Desc>
+			<Url>https://dl.dropbox.com/s/ug7oo0r2cg0xid9/SystemUI.apk?dl=1</Url>
+			<Version>1.0.0</Version>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+  </Tab>
 	<Kernels>
 		<Kernel>
 			<Name>Guevor</Name>
@@ -145,23 +171,4 @@
 			
 		</App>
 	</Apps>
-	<StockApps>
-		<StockApp>
-			<Name>Visual Voicemail</Name>
-			<Desc>Restore the original VVM</Desc>
-			<Url>http://dl.dropbox.com/u/3681387/UpdateMe_1_0_3_beta1.apk</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-		</StockApp>
-		<StockApp>
-			<Name>App2</Name>
-			<Desc>Theme2</Desc>
-			<Url>http://dl.dropbox.com/u/3681387/UpdateMeSmartphone_beta3.apk</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-			
-		</StockApp>
-	</StockApps>
 </Elements>
