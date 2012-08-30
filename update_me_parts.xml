@@ -146,7 +146,6 @@
 		</App>
 	</Apps>
 	<StockApps>
-		<Name>Stock Apps</Name>
 		<StockApp>
 			<Name>Visual Voicemail</Name>
 			<Desc>Restore the original VVM</Desc>
