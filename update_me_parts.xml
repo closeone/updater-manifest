@@ -74,13 +74,39 @@
 			<LaunchApp>1</LaunchApp>
 		</Element>
   </Tab>
+  <Tab>
+		<Name>Extra Apps</Name>
+    <IconNum>2</IconNum>
+		<Element>
+			<Name>DSPManager</Name>
+			<Desc>From CyanogenMod. (cr. xlxcrossing for the flashable zip)</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/w1976mlt7qwb0ef/DSPManager-ICS-SENSE.zip?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    <Element>
+			<Name>Sprint Zone</Name>
+			<Desc>Manage your Sprint account from your phone.</Desc>
+			<Url>https://dl.dropbox.com/s/oihonylfw8b3hs2/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+  </Tab>
     <Tab>
 		<Name>Skins</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>Aluminum</Name>
 			<Desc>Stock Aluminum Skin</Desc>
-			<ExternalLink>1</ExternalLink>
+			<ExternalLink>0</ExternalLink>
 			<Url>https://dl.dropbox.com/s/qcgpueahsyhf42l/Aluminum.apk?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
@@ -135,14 +161,15 @@
   </Tab>
 	<Kernels>
 		<Kernel>
-			<Name>Guevor</Name>
-			<Desc>Gueveor test 4 kernel no md5 no recovery</Desc>
-			<Url>http://goo.im/apps/Indirect/Nook_tablet/NookUnrooter.apk</Url>
-			<Version>1.0.0</Version>
+			<Name>AwesomeSause Kernel</Name>
+			<Desc>Link to thread only. No guarantees on compatibility.</Desc>
+			<ExternalLink>1</ExternalLink>
+			<Url>http://themikmik.com/showthread.php?14074-K</Url>
+			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 		</Kernel>
-		<Kernel>
+		<!--<Kernel>
 			<Name>Stock</Name>
 			<Desc>Kernel stock della rom a</Desc>
 			<Url>http://goo.im/apps/longcat/E4GT_Stock_GPSConfig_Signed-Naerok.zip</Url>
@@ -168,10 +195,10 @@
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 			
-		</Kernel>
+		</Kernel>-->
 		
 	</Kernels>
-	<Plugins>
+	<!--<Plugins>
 		<Plugin>
 			<Name>Plug1</Name>
 			<Desc>Plug1</Desc>
@@ -190,8 +217,8 @@
 			<RebootRecovery>1</RebootRecovery>
 			
 		</Plugin>
-	</Plugins>
-	<Themes>
+	</Plugins>-->
+	<!--<Themes>
 		<Theme>
 			<Name>Theme1</Name>
 			<Desc>Theme1</Desc>
@@ -210,8 +237,8 @@
 			<RebootRecovery>1</RebootRecovery>
 			
 		</Theme>
-	</Themes>
-	<Apps>
+	</Themes>-->
+	<!--<Apps>
 		<App>
 			<Name>Applicazione 1</Name>
 			<Desc>Theme1</Desc>
@@ -229,5 +256,5 @@
 			<RebootRecovery>0</RebootRecovery>
 			
 		</App>
-	</Apps>
+	</Apps>-->
 </Elements>
