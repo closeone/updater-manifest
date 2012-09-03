@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<Version>
+<<Version>
 	<Code>0.5.0</Code>
-	<Desc>Flash Player Test Zip</Desc>
-	<Url>https://www.dropbox.com/s/vd3p80mjoj89odf/FlashPlayerInstall.zip?dl=1</Url>
+	<!--<Desc>Flash Player Test Zip</Desc>
+	<Url>https://www.dropbox.com/s/vd3p80mjoj89odf/FlashPlayerInstall.zip?dl=1</Url>-->
 	<ExternalLink>0</ExternalLink>
 	<HomepageUrl>http://www.google.com</HomepageUrl>
 	<DonateUrl>http://www.donate.com</DonateUrl>
+
+  <!--MD5 Check
   <CheckMD5>0</CheckMD5>
-  MD5 Check
   <MD5Url>http://file.md5sum</MD5Url> 
-  <MD5>MD5Checksum</MD5>
+  <MD5>MD5Checksum</MD5>-->
       
   <RebootRecovery>1</RebootRecovery>
   
-</Version>-->
+</Version>
