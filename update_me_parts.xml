@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Elements>
-	<Tab>
+	<!--<Tab>
 		<Name>Apps</Name>
 		<IconNum>0</IconNum>
 		<Element>
@@ -9,20 +9,20 @@
 			<Url>http://matrixrewriter.com/android/files/TitaniumBackup_latest.apk</Url>
 			<ExternalLink>0</ExternalLink>
 			<Version>1.0.0</Version>
-			<CheckMD5>0</CheckMD5>
+			<CheckMD5>0</CheckMD5>-->
 			<!--<MD5Url>http://aaa.md5sum</MD5Url>    url where download the md5 of file, delete tag if don't use -->
 			<!--<MD5>12345678901234567890123456789012</MD5>  the md5 of file, delete tag if don't use -->
-			<RebootRecovery>0</RebootRecovery>
+			<!--<RebootRecovery>0</RebootRecovery>
 			<Wipe>0</Wipe>
-			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
-			<DestChmod>0644</DestChmod>
-			<LaunchApp>0</LaunchApp>
+			<Dest>/system/app/</Dest>--><!-- move on directory leave blank or delete for no move -->
+			<!--<DestChmod>0644</DestChmod>
+			<LaunchApp>0</LaunchApp>-->
 			<!-- <Filter>transformer</Filter> Filter for decide if element is show for this rom,if you don't need not insert this line-->
 			<!--<ThumbnailUrl>http://www.vikispot.com/z/images/vikispot/android-w.png</ThumbnailUrl> Url for little image see on the left of element,if you don't need not insert this line -->
 			<!--<ImageUrl>http://eeepc901.altervista.org/blog/wp-content/uploads/2010/04/android-64.png</ImageUrl> Image show when click on gallery icon in the element,if you don't need not insert this line -->
 			<!--<ImageUrl>http://www.androidquery.com/z/images/androidquery/github.png</ImageUrl> More then one image ;D,if you don't need not insert this line -->
-    </Element>
-  </Tab>
+   <!--</Element>
+  </Tab>-->
   <Tab>
 		<Name>Battery Icon/Bar</Name>
     <IconNum>2</IconNum>
@@ -37,15 +37,15 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
     <Element>
-			<Name>Enhanced Quick Settings</Name>
-			<Desc>After Installation, it is recommended that you reboot your phone.</Desc>
-			<Url>https://dl.dropbox.com/s/ug7oo0r2cg0xid9/SystemUI.apk?dl=1</Url>
-			<Version>1.0.0</Version>
+			<Name>Blue Battery Icons</Name>
+			<Desc>Cyan/Blue Icons by 2ndIdentity</Desc>
+			<Url>https://dl.dropbox.com/s/aphbvjoo81i40w8/2ndIdentityBatteryBlue.zip?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
-			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
-			<DestChmod>0644</DestChmod>
-			<RebootRecovery>0</RebootRecovery>
-			<LaunchApp>1</LaunchApp>
+			<!--<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<!--<DestChmod>0644</DestChmod>-->
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
 		</Element>
   </Tab>
   <Tab>
@@ -88,17 +88,17 @@
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-    <Element>
+   <!-- <Element>
 			<Name>Sprint Zone</Name>
 			<Desc>Manage your Sprint account from your phone.</Desc>
 			<Url>https://dl.dropbox.com/s/oihonylfw8b3hs2/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
-			<CheckMD5>0</CheckMD5>
+			<!--<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
-			<DestChmod>0644</DestChmod>
+			<!--<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>1</LaunchApp>
-		</Element>
+		</Element>-->
   </Tab>
     <Tab>
 		<Name>Skins</Name>
