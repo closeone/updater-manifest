@@ -44,6 +44,28 @@
 		<Name>Stock Apps</Name>
     <IconNum>2</IconNum>
 		<Element>
+			<Name>HTC Mail</Name>
+			<Desc>Stock HTC Mail App</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/eygox09wdj8qw1e/Mail.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>HTC Mail Widgets</Name>
+			<Desc>Stock HTC Mail Widgets</Desc>
+			<Url>https://dl.dropbox.com/s/jgls0ue7htwwv08/HtcMailWidgets.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+		<Element>
 			<Name>Sprint Visual VoiceMail</Name>
 			<Desc>Stock VVM</Desc>
 			<ExternalLink>0</ExternalLink>
