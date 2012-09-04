@@ -106,6 +106,17 @@
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
 		</Element>
+		<Element>
+			<Name>Weather Lockscreen</Name>
+			<Desc>Stock Weather Lockscreen</Desc>
+			<ExternalLink>1</ExternalLink>
+			<Url>https://dl.dropbox.com/s/f7moc8ngmobuo6s/IdleScreen_Weather.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
   </Tab>
   <Tab>
 		<Name>Extra Apps</Name>
