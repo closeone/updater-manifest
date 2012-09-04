@@ -30,7 +30,7 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-    <Element>
+    <!--<Element>
 			<Name>Blue Battery Icons</Name>
 			<Desc>By 2ndIdentity</Desc>
 			<Url>https://dl.dropbox.com/s/aphbvjoo81i40w8/2ndIdentityBatteryBlue.zip?dl=1</Url>
@@ -38,7 +38,7 @@
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
-		</Element>
+		</Element>-->
   </Tab>
   <Tab>
 		<Name>Stock Apps</Name>
@@ -54,7 +54,7 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-    <Element>
+    		<Element>
 			<Name>Sprint Zone</Name>
 			<Desc>Manage your Sprint account from your phone.</Desc>
 			<Url>https://dl.dropbox.com/s/oihonylfw8b3hs2/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk?dl=1</Url>
@@ -65,13 +65,32 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>1</LaunchApp>
 		</Element>
+    		<Element>
+			<Name>Swype</Name>
+			<Desc>Swype Keyboard</Desc>
+			<Url>https://dl.dropbox.com/s/ymb4la7m8hh291z/Swype.apk?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>HTC Notes</Name>
+			<Desc>Untested (Reboot Straight into Recovery After Download)</Desc>
+			<Url>https://dl.dropbox.com/s/4b5dgq7v2zhbfzi/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>1</RebootRecovery>
+		</Element>
   </Tab>
   <Tab>
 		<Name>Extra Apps</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>DSPManager</Name>
-			<Desc>From CyanogenMod. (cr. xlxcrossing for the flashable zip)</Desc>
+			<Desc>From CyanogenMod. (cr. xlxcrossing for zip) - Reboot Into Recovery After Download</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>https://dl.dropbox.com/s/w1976mlt7qwb0ef/DSPManager-ICS-SENSE.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
