@@ -121,6 +121,17 @@
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
+		<Element>
+			<Name>FDroid</Name>
+			<Desc>Download Many Open Source Apps</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/q67be17btjpf1hx/org.fdroid.fdroid_16.apk?dl=1/Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
   </Tab>
     <Tab>
 		<Name>Skins</Name>
