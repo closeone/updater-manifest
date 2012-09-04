@@ -144,6 +144,20 @@
 			<LaunchApp>1</LaunchApp>
 		</Element>
   </Tab>
+  <Tab>
+		<Name>MODs</Name>
+    <IconNum>3</IconNum>
+		<Element>
+			<Name>Camera Button to Wake</Name>
+			<Desc>Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/3c2ep0ld1p6ayid/keypad_8960.kl?dl=1</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/usr/keylayout/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+  </Tab>
     <Tab>
 		<Name>Skins</Name>
     <IconNum>2</IconNum>
