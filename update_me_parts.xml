@@ -125,7 +125,7 @@
 			<Name>FDroid</Name>
 			<Desc>Download Many Open Source Apps</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/q67be17btjpf1hx/org.fdroid.fdroid_16.apk?dl=1/Url>
+			<Url>https://dl.dropbox.com/s/q67be17btjpf1hx/org.fdroid.fdroid_16.apk?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
