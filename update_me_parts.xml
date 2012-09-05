@@ -26,7 +26,7 @@
 		</Element>
 		<Element>
 			<Name>How to apply updates from recovery</Name>
-			<Desc>Download the file that you would like to flash. When done, hold down the power button -> Reboot -> Recovery. From within recovery, tap install -> browse to /sdcard/downloadDir -> find the file you wish to install, flash and reboot.</Desc>
+			<Desc>Download the file that you would like to flash. When done, hold down the power button - Reboot - Recovery. From within recovery, tap install - browse to /sdcard/downloadDir - find the file you wish to install, flash and reboot.</Desc>
 		</Element>
 		<Element>
 			<Name>Legend</Name>
