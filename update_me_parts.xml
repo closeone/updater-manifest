@@ -51,7 +51,14 @@
 			<Name>Cyan-Blue Battery Icons</Name>
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/aphbvjoo81i40w8/2ndIdentityBatteryBlue.zip?dl=1</Url>
-			<Version>1.0.0</Version>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Blue Circle Battery Icons</Name>
+			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
+			<Url>https://dl.dropbox.com/s/qfoqngazm3suo18/circlebattery.zip?dl=1</Url>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
