@@ -18,7 +18,24 @@
 			</Element>
   </Tab>-->
   <Tab>
-		<Name>Critical Updates</Name>
+		<Name>Help (Readme)</Name>
+		<IconNum>0</IconNum>
+		<Element>
+			<Name>Anything in this section is not a download.</Name>
+			<Desc>Attempting to download from the help section will not work.</Desc>
+		</Element>
+		<Element>
+			<Name>How to apply updates from recovery</Name>
+			<Desc>Download the file that you would like to flash. When done, hold down the power button -> Reboot -> Recovery. From within recovery, tap install -> browse to /sdcard/downloadDir -> find the file you wish to install, flash and reboot.</Desc>
+		</Element>
+		<Element>
+			<Name>Legend</Name>
+			<Desc>(R) - Reboot into recovery to apply. (P) - Play Store Link</Desc>
+		</Element>
+  </Tab>
+  <Tab>
+  <Tab>
+		<Name>Critical Updates (1)</Name>
 		<IconNum>0</IconNum>
 		<Element>
 			<Name>YouTube/Streaming Video Fix</Name>
@@ -33,25 +50,12 @@
 			<Filter>urevor500</Filter>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-		<Element>
-			<Name>How to apply updates from recovery</Name>
-			<Desc>Download the file that you would like to flash. When done, hold down the power button -> Reboot -> Recovery. From within recovery, tap install -> browse to /sdcard/downloadDir -> find the file you wish to install, flash and reboot.</Desc>
-			<!--<Url>https://dl.dropbox.com/s/zto679dnkouw31c/default.xml?dl=1</Url>
-			<ExternalLink>0</ExternalLink>
-			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-			<Wipe>0</Wipe>
-			<Dest>/system/customize/MNS/</Dest>
-			<DestChmod>0644</DestChmod>
-			<Filter>urevor500</Filter>
-			<LaunchApp>0</LaunchApp>-->
-		</Element>
   </Tab>
   <Tab>
-		<Name>Battery Icon/Bar</Name>
+		<Name>Battery Icon/Bar (2)</Name>
     <IconNum>2</IconNum>
 		<Element>
-			<Name>MIUI Battery Bar</Name>
+			<Name>MIUI Battery Bar (P)</Name>
 			<Desc>T.E.A.M. Battery Bar App</Desc>
 			<ExternalLink>1</ExternalLink>
 			<Url>market://details?id=com.pvy.batterybar</Url>
@@ -61,19 +65,19 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
     <Element>
-			<Name>Cyan-Blue Battery Icons</Name>
+			<Name>Cyan-Blue Battery Icons (R)</Name>
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/aphbvjoo81i40w8/2ndIdentityBatteryBlue.zip?dl=1</Url>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
+			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
-			<Name>Blue Circle Battery Icons</Name>
+			<Name>Blue Circle Battery Icons (R)</Name>
 			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/qfoqngazm3suo18/circlebattery.zip?dl=1</Url>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
+			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
   </Tab>
@@ -100,7 +104,7 @@
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
 			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
-			<LaunchApp>1</LaunchApp>
+			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
 			<Name>Sprint Visual VoiceMail</Name>
@@ -122,7 +126,7 @@
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
 			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
-			<LaunchApp>1</LaunchApp>
+			<LaunchApp>0</LaunchApp>
 		</Element>
     		<Element>
 			<Name>Swype</Name>
@@ -133,15 +137,15 @@
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
 			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
-			<LaunchApp>1</LaunchApp>
+			<LaunchApp>0</LaunchApp>
 		</Element>
     		<Element>
-			<Name>HTC Notes</Name>
+			<Name>HTC Notes (R)</Name>
 			<Desc>Untested (Reboot Straight into Recovery After Download)</Desc>
 			<Url>https://dl.dropbox.com/s/4b5dgq7v2zhbfzi/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
+			<RebootRecovery>0</RebootRecovery>
 		</Element>
 		<Element>
 			<Name>Weather Lockscreen</Name>
@@ -159,14 +163,14 @@
 		<Name>Extra Apps</Name>
     <IconNum>2</IconNum>
 		<Element>
-			<Name>DSPManager</Name>
+			<Name>DSPManager (R)</Name>
 			<Desc>From CyanogenMod. (cr. xlxcrossing for zip) - Reboot Into Recovery After Download</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>https://dl.dropbox.com/s/w1976mlt7qwb0ef/DSPManager-ICS-SENSE.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
-			<RebootRecovery>1</RebootRecovery>
+			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
