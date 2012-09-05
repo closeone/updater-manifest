@@ -217,6 +217,17 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
+		<Element>
+			<Name>Long-press Volume Buttons to Skip Tracks</Name>
+			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/kxtobnlwlv1niet/android.policy.jar?dl=1</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/framework/</Dest>
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
   </Tab>
     <Tab>
 		<Name>Skins</Name>
