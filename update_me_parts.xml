@@ -32,7 +32,20 @@
 			<DestChmod>0644</DestChmod>
 			<Filter>urevor500</Filter>
 			<LaunchApp>0</LaunchApp>
-			</Element>
+		</Element>
+		<Element>
+			<Name>How to apply updates from recovery</Name>
+			<Desc>Download the file that you would like to flash. When done, hold down the power button -> Reboot -> Recovery. From within recovery, tap install -> browse to /sdcard/downloadDir -> find the file you wish to install, flash and reboot.</Desc>
+			<!--<Url>https://dl.dropbox.com/s/zto679dnkouw31c/default.xml?dl=1</Url>
+			<ExternalLink>0</ExternalLink>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<Wipe>0</Wipe>
+			<Dest>/system/customize/MNS/</Dest>
+			<DestChmod>0644</DestChmod>
+			<Filter>urevor500</Filter>
+			<LaunchApp>0</LaunchApp>-->
+		</Element>
   </Tab>
   <Tab>
 		<Name>Battery Icon/Bar</Name>
