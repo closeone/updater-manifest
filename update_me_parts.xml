@@ -18,7 +18,7 @@
 			</Element>
   </Tab>-->
   <Tab>
-		<Name>Help (Readme)</Name>
+		<Name>UR/EVO Updater Help (Readme)</Name>
 		<IconNum>0</IconNum>
 		<Element>
 			<Name>Anything in this section is not a download.</Name>
@@ -51,7 +51,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>Battery Icon/Bar (2)</Name>
+		<Name>Battery Icon/Bar (4)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>MIUI Battery Bar (P)</Name>
@@ -63,10 +63,11 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-    <Element>
+    		<Element>
 			<Name>Cyan-Blue Battery Icons (R)</Name>
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/aphbvjoo81i40w8/2ndIdentityBatteryBlue.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/spuit.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
@@ -75,6 +76,25 @@
 			<Name>Blue Circle Battery Icons (R)</Name>
 			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/qfoqngazm3suo18/circlebattery.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/ED1kM.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Green Circle Battery Icons (R)</Name>
+			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
+			<Url>https://dl.dropbox.com/s/o30oeqqyieg78bn/circlebatterygreen.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/RMnWX.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Square Battery Icons (R)</Name>
+			<Desc>By vertigone/unknown (Reboot Into Recovery After Downloading)</Desc>
+			<Url>https://dl.dropbox.com/s/9bd65dg9ohmw4ru/squarebattery.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/9QYyW.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
