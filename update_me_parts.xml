@@ -18,6 +18,23 @@
 			</Element>
   </Tab>-->
   <Tab>
+		<Name>Critical Updates</Name>
+		<IconNum>0</IconNum>
+		<Element>
+			<Name>YouTube/Streaming Video Fix</Name>
+			<Desc>Download. Reboot. Open Settings, Apps, All, Streaming Media Player. Clear Data.</Desc>
+			<Url>https://dl.dropbox.com/s/zto679dnkouw31c/default.xml?dl=1</Url>
+			<ExternalLink>0</ExternalLink>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<Wipe>0</Wipe>
+			<Dest>/system/customize/MNS/</Dest>
+			<DestChmod>0644</DestChmod>
+			<Filter>urevor500</Filter>
+			<LaunchApp>0</LaunchApp>
+			</Element>
+  </Tab>
+  <Tab>
 		<Name>Battery Icon/Bar</Name>
     <IconNum>2</IconNum>
 		<Element>
