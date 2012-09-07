@@ -51,7 +51,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>Battery Icon/Bar (4)</Name>
+		<Name>Battery Icon/Bar (6)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>MIUI Battery Bar (P)</Name>
@@ -68,6 +68,24 @@
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/aphbvjoo81i40w8/2ndIdentityBatteryBlue.zip?dl=1</Url>
 			<ThumbnailUrl>http://i.imgur.com/spuit.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>Green Battery Icons (R)</Name>
+			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
+			<Url>https://dl.dropbox.com/s/skhy4sc22hnoj1n/2ndIdentityBatteryGreen.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/kBQ6s.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+    		<Element>
+			<Name>Red Battery Icons (R)</Name>
+			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
+			<Url>https://dl.dropbox.com/s/0ucyh6xt4a2jj6a/2ndIdentityBatteryRed.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/f01uv.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
@@ -284,6 +302,32 @@
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
 			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+  </Tab>
+   <Tab>
+		<Name>Fonts (1)</Name>
+    <IconNum>2</IconNum>
+		<Element>
+			<Name>Default UR/EVO V Font (R)</Name>
+			<Desc>Roboto Slim Restore ZIP (cr. LiquidSolstice)</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/zuhqlqgztvv23c6/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Roboto Standard</Name>
+			<Desc>Default ICS Font ZIP (cr. LiquidSolstice)</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/kn46wdqb0hbexzk/ICS%20Font%20-%20Roboto%20Standard.zip?dl=1</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
