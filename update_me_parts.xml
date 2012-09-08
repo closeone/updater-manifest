@@ -223,7 +223,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>MODs</Name>
+		<Name>MODs (3)</Name>
     <IconNum>3</IconNum>
 		<Element>
 			<Name>Camera Button to Wake</Name>
@@ -243,6 +243,16 @@
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/framework/</Dest>
 			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>New 2.13 SystemUI</Name>
+			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/8nxiovl6yoz3uq5/SystemUI.apk?dl=1</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
