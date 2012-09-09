@@ -105,7 +105,7 @@
 			<Url>https://dl.dropbox.com/s/o30oeqqyieg78bn/circlebatterygreen.zip?dl=1</Url>
 			<ThumbnailUrl>http://i.imgur.com/RMnWX.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
