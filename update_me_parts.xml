@@ -51,7 +51,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>Battery Icon/Bar (6)</Name>
+		<Name>Battery Icon/Bar (7)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>MIUI Battery Bar (P)</Name>
@@ -113,6 +113,15 @@
 			<Desc>By vertigone/unknown (Reboot Into Recovery After Downloading)</Desc>
 			<Url>https://dl.dropbox.com/s/9bd65dg9ohmw4ru/squarebattery.zip?dl=1</Url>
 			<ThumbnailUrl>http://i.imgur.com/9QYyW.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Stock No Percent Battery Icons (R)</Name>
+			<Desc>(Reboot Into Recovery After Downloading)</Desc>
+			<Url>https://dl.dropbox.com/s/5dl74snr5i0xolx/nopercent.zip?dl=1</Url>
+			<ThumbnailUrl>http://i.imgur.com/jvZ8c.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
