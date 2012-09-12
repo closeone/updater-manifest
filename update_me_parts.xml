@@ -276,6 +276,16 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
+		<Element>
+			<Name>Rosie 360 (No Landscape)</Name>
+			<Desc>cr. Mikey - Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>https://dl.dropbox.com/s/coqp7r0ctd56hh3/Rosie.apk?dl=1</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
   </Tab>
     <Tab>
 		<Name>Skins</Name>
