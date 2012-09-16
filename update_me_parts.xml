@@ -347,6 +347,21 @@
 		</Element>
   </Tab>
    <Tab>
+		<Name>More Skins/Themes (1)</Name>
+    <IconNum>2</IconNum>
+		<Element>
+			<Name>Iced Chaos by Pneuma</Name>
+			<Desc>Apply by opening Personalize - Skin - Iced Chaos - Apply</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/Pneuma/IcedChaos.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+  </Tab>
+   <Tab>
 		<Name>Fonts (1)</Name>
     <IconNum>2</IconNum>
 		<Element>
