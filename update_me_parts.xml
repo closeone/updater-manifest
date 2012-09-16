@@ -33,8 +33,8 @@
 			<Desc>(R) - Reboot into recovery to apply. (P) - Play Store Link</Desc>
 		</Element>
   </Tab>
-  <Tab>
-		<Name>Critical Updates (1)</Name>
+  <!--<Tab>
+		<Name>Critical Updates</Name>
 		<IconNum>0</IconNum>
 		<Element>
 			<Name>YouTube/Streaming Video Fix</Name>
@@ -49,7 +49,7 @@
 			<Filter>urevor500</Filter>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-  </Tab>
+  </Tab>-->
   <Tab>
 		<Name>Battery Icon/Bar (7)</Name>
     <IconNum>2</IconNum>
@@ -69,7 +69,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryBlue.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/spuit.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
     		<Element>
@@ -78,7 +78,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryGreen.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/kBQ6s.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
     		<Element>
@@ -87,7 +87,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryRed.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/f01uv.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
@@ -96,7 +96,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/circlebattery.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/ED1kM.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
@@ -114,7 +114,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/squarebattery.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/9QYyW.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
@@ -123,7 +123,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/closeone/nopercent.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/jvZ8c.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
   </Tab>
@@ -191,7 +191,7 @@
 			<Url>https://dl.dropbox.com/s/4b5dgq7v2zhbfzi/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 		</Element>
 		<Element>
 			<Name>Weather Lockscreen</Name>
@@ -220,17 +220,6 @@
 		<Name>Extra Apps</Name>
     <IconNum>2</IconNum>
 		<Element>
-			<Name>DSPManager (R)</Name>
-			<Desc>From CyanogenMod. (cr. xlxcrossing for zip) - Reboot Into Recovery After Download</Desc>
-			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/w1976mlt7qwb0ef/DSPManager-ICS-SENSE.zip?dl=1</Url>
-			<!--<Version>1.0.0</Version>-->
-			<CheckMD5>0</CheckMD5>
-			<!--<Dest>/system/app/</Dest>-->
-			<RebootRecovery>0</RebootRecovery>
-			<LaunchApp>0</LaunchApp>
-		</Element>
-		<Element>
 			<Name>FDroid</Name>
 			<Desc>Download Many Open Source Apps</Desc>
 			<ExternalLink>0</ExternalLink>
@@ -255,7 +244,7 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-		<Element>
+		<!--<Element>
 			<Name>Long-press Volume Buttons to Skip Tracks</Name>
 			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
@@ -265,7 +254,7 @@
 			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
-		</Element>
+		</Element>-->
 		<Element>
 			<Name>Volume Buttons to Wake Device</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
@@ -277,7 +266,7 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-		<Element>
+		<!--<Element>
 			<Name>New 2.13 SystemUI</Name>
 			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
@@ -286,7 +275,7 @@
 			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
-		</Element>
+		</Element>-->
 		<Element>
 			<Name>Rosie 360 (No Landscape)</Name>
 			<Desc>cr. Mikey - Reboot Phone After Downloading</Desc>
@@ -299,7 +288,7 @@
 		</Element>
   </Tab>
     <Tab>
-		<Name>Skins</Name>
+		<Name>Stock HTC Skins (5)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>Aluminum</Name>
@@ -392,93 +381,6 @@
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
-		</Kernel>
-		<!--<Kernel>
-			<Name>Stock</Name>
-			<Desc>Kernel stock della rom a</Desc>
-			<Url>http://goo.im/apps/longcat/E4GT_Stock_GPSConfig_Signed-Naerok.zip</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
-			
-		</Kernel>
-		<Kernel>
-			<Name>Test sourceforge</Name>
-			<Desc>Test</Desc>
-			<Url>http://sourceforge.net/projects/microzip/files/src.7z/download</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-			
-		</Kernel>
-		<Kernel>
-			<Name>Test sourceforge Big rom</Name>
-			<Desc>Test</Desc>
-			<Url>http://sourceforge.net/projects/fastdontlie/files/Sweet%20Child%20of%20Mine%20v3.5.zip/download</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-			
-		</Kernel>-->
-		
+		</Kernel>		
 	</Kernels>
-	<!--<Plugins>
-		<Plugin>
-			<Name>Plug1</Name>
-			<Desc>Plug1</Desc>
-			<Url>http://goo.im/apps/Indirect/Nook_tablet/NookUnrooter.apk</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
-			
-		</Plugin>
-		<Plugin>
-			<Name>Plug2</Name>
-			<Desc>Plug2</Desc>
-			<Url>http://www.xdafileserver.nl/Home/ASUS/Asus%20Transformer%20(TF101)/ROMS/Megatron/Gapps/gapps-ics-20120317-signed.zip</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
-			
-		</Plugin>
-	</Plugins>-->
-	<!--<Themes>
-		<Theme>
-			<Name>Theme1</Name>
-			<Desc>Theme1</Desc>
-			<Url>http://www.xdafileserver.nl/Home/TF101/CM9%20by%20ricardopvz/Normal/29%20Mar/update-cm-9.0.0-RC0-tf101-KANG-29Mar-signed.zip/Kernel/Guevor/test4/guevor-test4.zip</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
-			
-		</Theme>
-		<Theme>
-			<Name>Theme2</Name>
-			<Desc>Theme2</Desc>
-			<Url>http://www.xdafileserver.nl/Home/TF101/CM9%20by%20ricardopvz/Kernel/Stock/Stock_Kernel.zip</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>1</RebootRecovery>
-			
-		</Theme>
-	</Themes>-->
-	<!--<Apps>
-		<App>
-			<Name>Applicazione 1</Name>
-			<Desc>Theme1</Desc>
-			<Url>http://dl.dropbox.com/u/3681387/UpdateMe_1_0_3_beta1.apk</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>0</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-		</App>
-		<App>
-			<Name>App2</Name>
-			<Desc>Theme2</Desc>
-			<Url>http://dl.dropbox.com/u/3681387/UpdateMeSmartphone_beta3.apk</Url>
-			<Version>1.0.0</Version>
-			<CheckMD5>1</CheckMD5>
-			<RebootRecovery>0</RebootRecovery>
-			
-		</App>
-	</Apps>-->
 </Elements>
