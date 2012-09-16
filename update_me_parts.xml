@@ -100,6 +100,15 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
+			<Name>Blue Circle Battery Icons (R)</Name>
+			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
+			<Url>http://bit.ly/OQkxAe</Url>
+			<ThumbnailUrl>http://i.imgur.com/ED1kM.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>		
+		<Element>
 			<Name>Green Circle Battery Icons (R)</Name>
 			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/circlebatterygreen.zip</Url>
