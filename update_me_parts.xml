@@ -51,7 +51,7 @@
 		</Element>
   </Tab>-->
   <Tab>
-		<Name>Battery Icon/Bar (7)</Name>
+		<Name>Battery Icon/Bar (8)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>MIUI Battery Bar (P)</Name>
@@ -113,6 +113,15 @@
 			<Desc>By vertigone/unknown (Reboot Into Recovery After Downloading)</Desc>
 			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/squarebattery.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/9QYyW.png</ThumbnailUrl>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Iced Battery (R)</Name>
+			<Desc>By Pneuma (Reboot Into Recovery After Downloading)</Desc>
+			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Pneuma/IcedBattery.zip</Url>
+			<ThumbnailUrl>http://i.imgur.com/om58t.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
