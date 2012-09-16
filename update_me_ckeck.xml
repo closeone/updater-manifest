@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Version>
-	<Code>0.5.0</Code>
-	<!--<Desc>Flash Player Test Zip</Desc>
-	<Url>https://www.dropbox.com/s/vd3p80mjoj89odf/FlashPlayerInstall.zip?dl=1</Url>-->
-	<ExternalLink>0</ExternalLink>
+	<Code>0.6.0</Code>
+	<Desc>UR/EVO 4G LTE SIX - New version includes Ringtone fix, Streaming video fix, Track skip MOD, FULL Sound Enhancement Settings, MIUI Battery Bar MOD, and much more!</Desc>
+	<Url>http://bit.ly/QcTn6H</Url>
+	<ExternalLink>1</ExternalLink>
 	<HomepageUrl>http://bit.ly/N84w6w</HomepageUrl>
 	<DonateUrl>http://bit.ly/N4DMty</DonateUrl>
 
-  <!--MD5 Check
+  <!--MD5 Check-->
   <CheckMD5>0</CheckMD5>
-  <MD5Url>http://file.md5sum</MD5Url> 
-  <MD5>MD5Checksum</MD5>-->
-      
+  <!--<MD5Url>http://file.md5sum</MD5Url> -->
+  <MD5>65b9eb4fec3e1ec83a98c38439e9aea1</MD5>
   <RebootRecovery>1</RebootRecovery>
   
 </Version>
