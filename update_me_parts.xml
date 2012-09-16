@@ -372,15 +372,15 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
   </Tab>
-	<!--<Kernels>
+	<Kernels>
 		<Kernel>
 			<Name>AwesomeSause Kernel</Name>
 			<Desc>Link to thread only. No guarantees on compatibility.</Desc>
 			<ExternalLink>1</ExternalLink>
 			<Url>http://themikmik.com/showthread.php?14074-K</Url>
-			<!--<Version>1.0.0</Version>
+			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 		</Kernel>		
-	</Kernels>-->
+	</Kernels>
 </Elements>
