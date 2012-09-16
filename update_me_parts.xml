@@ -232,7 +232,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>MODs (5)</Name>
+		<Name>MODs (4)</Name>
     <IconNum>3</IconNum>
 		<Element>
 			<Name>Camera Button to Wake</Name>
@@ -242,6 +242,16 @@
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>HTC Spyware Restoration (R)</Name>
+			<Desc>Why? If you want to update your PRL or Profile, you'll need to flash this.</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADM.zip</Url>
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/usr/keylayout/</Dest>-->
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<!--<Element>
@@ -350,7 +360,7 @@
 		<Name>Fonts (1)</Name>
     <IconNum>2</IconNum>
 		<Element>
-			<Name>Default UR/EVO V Font (R)</Name>
+			<Name>Default UR/EVO SIX Font (R)</Name>
 			<Desc>Roboto Slim Restore ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>https://dl.dropbox.com/s/zuhqlqgztvv23c6/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
