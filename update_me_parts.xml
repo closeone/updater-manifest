@@ -252,7 +252,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>MODs (4)</Name>
+		<Name>MODs (5)</Name>
     <IconNum>3</IconNum>
 		<Element>
 			<Name>Camera Button to Wake</Name>
@@ -297,7 +297,7 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
-			<Name>Customizable QS From Old Base</Name>
+			<Name>Customizable QuickSettings From Old Base</Name>
 			<Desc>cr. aamikam - Reboot Phone After Downloading (Hold Down Settings Button in Menu to Customize)</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>http://androidfilehost.com/closeone/UREVO/SystemUI/QSChangable/SystemUI.apk</Url>
