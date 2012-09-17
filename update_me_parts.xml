@@ -226,13 +226,24 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>Extra Apps</Name>
+		<Name>Extra Apps (2)</Name>
     <IconNum>2</IconNum>
+    		<Element>
+			<Name>DSPManager</Name>
+			<Desc>From CyanogenMod. Reboot After Download</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/DSPManager.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
 		<Element>
 			<Name>FDroid</Name>
 			<Desc>Download Many Open Source Apps</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/q67be17btjpf1hx/org.fdroid.fdroid_16.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/org.fdroid.fdroid_16.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
