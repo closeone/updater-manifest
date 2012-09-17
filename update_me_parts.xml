@@ -235,7 +235,7 @@
 			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/DSPManager.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
-			<!--<Dest>/system/app/</Dest>-->
+			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
