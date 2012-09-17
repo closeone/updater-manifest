@@ -226,7 +226,7 @@
 		</Element>
   </Tab>
   <Tab>
-		<Name>Extra Apps (2)</Name>
+		<Name>Extra Apps (3)</Name>
     <IconNum>2</IconNum>
     		<Element>
 			<Name>DSPManager</Name>
@@ -244,6 +244,17 @@
 			<Desc>Download Many Open Source Apps</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/org.fdroid.fdroid_16.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+		<Element>
+			<Name>SwitchKB - Keyboard (IME) Switcher</Name>
+			<Desc>By JerryGNYC - Easily Switch Keyboards</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/JerryGNYCKeyboardSwitch/SwitchKB.2.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
