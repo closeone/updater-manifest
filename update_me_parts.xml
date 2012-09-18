@@ -285,6 +285,16 @@
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
+		<Element>
+			<Name>HTC Spyware Removal (R)</Name>
+			<Desc>This will undo the installation of the files above.</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADMREM.zip</Url>
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/usr/keylayout/</Dest>-->
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
 		<!--<Element>
 			<Name>Long-press Volume Buttons to Skip Tracks</Name>
 			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
