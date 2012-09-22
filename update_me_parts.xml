@@ -263,6 +263,39 @@
 		</Element>
   </Tab>
   <Tab>
+		<Name>Alternative Rosie (HTC Launcher) Configuration (2)</Name>
+    <IconNum>2</IconNum>
+		<Element>
+			<Name>Rosie 360 (No Landscape)</Name>
+			<Desc>cr. Mikey - Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Rosie/4.0%20360/Rosie.apk</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Rosie 360 (Landscape) - 5x5/8x3 App Drawer</Name>
+			<Desc>cr. tjarnold - Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Rosie/4.0_360_5x5_8x3/Rosie.apk</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<!--<Element>
+			<Name>SwitchKB - Keyboard (IME) Switcher</Name>
+			<Desc>By JerryGNYC - Easily Switch Keyboards</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/JerryGNYCKeyboardSwitch/SwitchKB.2.apk</Url>
+			<CheckMD5>0</CheckMD5>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>-->
+  </Tab>
+  <Tab>
 		<Name>MODs (5)</Name>
     <IconNum>3</IconNum>
 		<Element>
@@ -276,7 +309,7 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
-			<Name>HTC Spyware Restoration (R)</Name>
+			<Name>HTC Spyware Restoration (R) - May be safe to leave on</Name>
 			<Desc>Why? If you want to update your PRL or Profile, you'll need to flash this.</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADM.zip</Url>
@@ -322,16 +355,6 @@
 			<Desc>cr. aamikam - Reboot Phone After Downloading (Hold Down Settings Button in Menu to Customize)</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>http://androidfilehost.com/closeone/UREVO/SystemUI/QSChangable/SystemUI.apk</Url>
-			<CheckMD5>0</CheckMD5>
-			<Dest>/system/app/</Dest>
-			<RebootRecovery>0</RebootRecovery>
-			<LaunchApp>0</LaunchApp>
-		</Element>
-		<Element>
-			<Name>Rosie 360 (No Landscape)</Name>
-			<Desc>cr. Mikey - Reboot Phone After Downloading</Desc>
-			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/coqp7r0ctd56hh3/Rosie.apk?dl=1</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
