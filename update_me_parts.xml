@@ -378,7 +378,7 @@
     		<Element>
 			<Name>Fracture</Name>
 			<Desc>Stock Fracture Skin</Desc>
-			<Url>https://dl.dropbox.com/s/d95ar9nzfhi8cuo/Fracture.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Fracture.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -389,7 +389,7 @@
     		<Element>
 			<Name>Infinite</Name>
 			<Desc>Stock Infinite Skin</Desc>
-			<Url>https://dl.dropbox.com/s/8o91wpx27u3kl3c/Infinite.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Infinite.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -400,7 +400,7 @@
     		<Element>
 			<Name>Matte</Name>
 			<Desc>Stock Matte Skin</Desc>
-			<Url>https://dl.dropbox.com/s/8b6wz2s88c8y263/Matte.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Matte.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -411,7 +411,7 @@
     		<Element>
 			<Name>Serene</Name>
 			<Desc>Stock Serene Skin</Desc>
-			<Url>https://dl.dropbox.com/s/vz28ki306r6lkjt/Serene.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Serene.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -421,28 +421,39 @@
 		</Element>
   </Tab>
    <Tab>
-		<Name>Fonts (1)</Name>
+		<Name>Fonts (2)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>Default UR/EVO SIX Font (R)</Name>
 			<Desc>Roboto Slim Restore ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/zuhqlqgztvv23c6/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Fonts/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
 			<Name>Roboto Standard (R)</Name>
 			<Desc>Default ICS Font ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/kn46wdqb0hbexzk/ICS%20Font%20-%20Roboto%20Standard.zip?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Fonts/ICS%20Font%20-%20Roboto%20Standard.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
-			<RebootRecovery>0</RebootRecovery>
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Ubuntu (R)</Name>
+			<Desc>Ubuntu Font ZIP</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Fonts/Ubuntu%20Font%20-%20Flashable.zip</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
   </Tab>
