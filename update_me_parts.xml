@@ -343,7 +343,18 @@
 			<Name>Volume Buttons to Wake Device</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/613r9wrbh6j1oi8/android.policy.jar?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Volume%20Keys%20Wake/VolPlusMinus/android.policy.jar</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/framework/</Dest>
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Restore Volume Button Functionality</Name>
+			<Desc>Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Mods/VolumeButtonsRestore/android.policy.jar</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/framework/</Dest>
 			<DestChmod>0644</DestChmod>
