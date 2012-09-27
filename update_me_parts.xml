@@ -373,7 +373,7 @@
 		</Element>
   </Tab>
     <Tab>
-		<Name>Stock HTC Skins (5)</Name>
+		<Name>HTC Skins (10)</Name>
     <IconNum>2</IconNum>
 		<Element>
 			<Name>Aluminum</Name>
@@ -429,6 +429,61 @@
 			<DestChmod>0644</DestChmod>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Memories</Name>
+			<Desc>HTC Memories Skin</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.Memories.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Music Lover</Name>
+			<Desc>HTC Music Lover Skin</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.MusicLover.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Painting The World</Name>
+			<Desc>HTC Painting The World Skin</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.PaintingTheWorld.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Purple Passion</Name>
+			<Desc>HTC Purple Passion Skin</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.PurplePassion.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Spaceship Earth</Name>
+			<Desc>HTC Spaceship Earth Skin</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.SpaceshipEarth.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>1</LaunchApp>
 		</Element>
   </Tab>
    <Tab>
