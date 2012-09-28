@@ -143,7 +143,7 @@
 			<Name>HTC Mail</Name>
 			<Desc>Stock HTC Mail App</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/eygox09wdj8qw1e/Mail.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Mail.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -153,7 +153,7 @@
     		<Element>
 			<Name>HTC Mail Widgets</Name>
 			<Desc>Stock HTC Mail Widgets</Desc>
-			<Url>https://dl.dropbox.com/s/jgls0ue7htwwv08/HtcMailWidgets.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HtcMailWidgets.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -165,7 +165,7 @@
 			<Name>Sprint Visual VoiceMail</Name>
 			<Desc>Stock VVM</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://www.dropbox.com/s/qsqp176cd6gvjli/vtt-sprint.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/vtt-sprint.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -175,7 +175,7 @@
     		<Element>
 			<Name>Sprint Zone</Name>
 			<Desc>Manage your Sprint account from your phone.</Desc>
-			<Url>https://dl.dropbox.com/s/oihonylfw8b3hs2/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -186,7 +186,7 @@
     		<Element>
 			<Name>Swype</Name>
 			<Desc>Swype Keyboard</Desc>
-			<Url>https://dl.dropbox.com/s/ymb4la7m8hh291z/Swype.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Swype.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -197,7 +197,7 @@
     		<Element>
 			<Name>HTC Notes (R)</Name>
 			<Desc>Untested (Reboot Straight into Recovery After Download)</Desc>
-			<Url>https://dl.dropbox.com/s/4b5dgq7v2zhbfzi/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -206,7 +206,7 @@
 			<Name>Weather Lockscreen</Name>
 			<Desc>Stock Weather Lockscreen</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/f7moc8ngmobuo6s/IdleScreen_Weather.apk?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Lockscreen/IdleScreen_Weather.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -296,13 +296,23 @@
 		</Element>-->
   </Tab>
   <Tab>
-		<Name>MODs (5)</Name>
+		<Name>MODs (6)</Name>
     <IconNum>3</IconNum>
 		<Element>
 			<Name>Camera Button to Wake</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/3c2ep0ld1p6ayid/keypad_8960.kl?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Wake/keypad_8960.kl</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/usr/keylayout/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Half-press Camera Button to Search</Name>
+			<Desc>Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Search/keypad_8960.kl</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -332,7 +342,7 @@
 			<Name>Long-press Volume Buttons to Skip Tracks</Name>
 			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>https://dl.dropbox.com/s/kxtobnlwlv1niet/android.policy.jar?dl=1</Url>
+			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Volume%20Buttons%20Skip%20Tracks/android.policy.jar</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/framework/</Dest>
 			<DestChmod>0644</DestChmod>
