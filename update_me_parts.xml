@@ -296,7 +296,7 @@
 		</Element>-->
   </Tab>
   <Tab>
-		<Name>MODs (6)</Name>
+		<Name>MODs (7)</Name>
     <IconNum>3</IconNum>
 		<Element>
 			<Name>Camera Button to Wake</Name>
@@ -313,6 +313,16 @@
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
 			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Search/keypad_8960.kl</Url>
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/usr/keylayout/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
+			<Name>Camera Button to Wake and Search</Name>
+			<Desc>Reboot Phone After Downloading</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Wake%20Search/keypad_8960.kl</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>0</RebootRecovery>
