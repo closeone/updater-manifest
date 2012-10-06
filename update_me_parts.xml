@@ -224,6 +224,17 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
+		<Element>
+			<Name>HTC MediaLink HD</Name>
+			<Desc>Add MediaLink HD Back to your phone. Reboot may be required. Untested.</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/com.htc.wifidisplay.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
   </Tab>
   <Tab>
 		<Name>Extra Apps (3)</Name>
