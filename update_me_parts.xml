@@ -214,6 +214,18 @@
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
+			<Name>Weather Wallpaper</Name>
+			<Desc>Stock Weather Wallpaper</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HtcWeatherWallpaper.apk</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<Dest>/system/app/</Dest>
+			<DestChmod>0644</DestChmod>
+			<RebootRecovery>0</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
+		<Element>
 			<Name>Google Talk</Name>
 			<Desc>Updated Google Talk</Desc>
 			<ExternalLink>0</ExternalLink>
