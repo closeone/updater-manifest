@@ -39,7 +39,7 @@
 		<Element>
 			<Name>YouTube/Streaming Video Fix</Name>
 			<Desc>Download. Reboot. Open Settings, Apps, All, Streaming Media Player. Clear Data.</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Update/YouTubeStreaming_Video_Fix/default.xml</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Update/YouTubeStreaming_Video_Fix/default.xml</Url>
 			<ExternalLink>0</ExternalLink>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
@@ -66,7 +66,7 @@
     		<Element>
 			<Name>Cyan-Blue Battery Icons (R)</Name>
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryBlue.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryBlue.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/spuit.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -75,7 +75,7 @@
     		<Element>
 			<Name>Green Battery Icons (R)</Name>
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryGreen.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryGreen.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/kBQ6s.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -84,7 +84,7 @@
     		<Element>
 			<Name>Red Battery Icons (R)</Name>
 			<Desc>By 2ndIdentity (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryRed.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/2ndIdentity/2ndIdentityBatteryRed.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/f01uv.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -93,7 +93,7 @@
 		<Element>
 			<Name>Blue Circle Battery Icons (R)</Name>
 			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/circlebattery.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/circlebattery.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/ED1kM.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -102,7 +102,7 @@
 		<Element>
 			<Name>Green Circle Battery Icons (R)</Name>
 			<Desc>By JKai/vertigone (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/circlebatterygreen.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/circlebatterygreen.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/RMnWX.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -111,7 +111,7 @@
 		<Element>
 			<Name>Square Battery Icons (R)</Name>
 			<Desc>By vertigone/unknown (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/squarebattery.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/Vertigone/squarebattery.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/9QYyW.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -120,7 +120,7 @@
 		<Element>
 			<Name>Iced Battery (R)</Name>
 			<Desc>By Pneuma (Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/Pneuma/IcedBattery.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/Pneuma/IcedBattery.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/om58t.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -129,7 +129,7 @@
 		<Element>
 			<Name>Stock No Percent Battery Icons (R)</Name>
 			<Desc>(Reboot Into Recovery After Downloading)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Battery%20Mods/closeone/nopercent.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Battery%20Mods/closeone/nopercent.zip</Url>
 			<ThumbnailUrl>http://i.imgur.com/jvZ8c.png</ThumbnailUrl>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -143,7 +143,7 @@
 			<Name>HTC Mail</Name>
 			<Desc>Stock HTC Mail App</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Mail.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/Mail.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -153,7 +153,7 @@
     		<Element>
 			<Name>HTC Mail Widgets</Name>
 			<Desc>Stock HTC Mail Widgets</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HtcMailWidgets.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/HtcMailWidgets.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -165,7 +165,7 @@
 			<Name>Sprint Visual VoiceMail</Name>
 			<Desc>Stock VVM</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/vtt-sprint.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/vtt-sprint.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -175,7 +175,7 @@
     		<Element>
 			<Name>Sprint Zone</Name>
 			<Desc>Manage your Sprint account from your phone.</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/HTC-Jet_zone-sprint-ics-v4.1.9_mr2.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -186,7 +186,7 @@
     		<Element>
 			<Name>Swype</Name>
 			<Desc>Swype Keyboard</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Swype.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/Swype.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -197,7 +197,7 @@
     		<Element>
 			<Name>HTC Notes (R)</Name>
 			<Desc>Untested (Reboot Straight into Recovery After Download)</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Extra%20Apps/HTC_Notes_v1.0.2213242221.341557.305674_EVO_LTE.zip</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>1</RebootRecovery>
@@ -206,7 +206,7 @@
 			<Name>Weather Lockscreen</Name>
 			<Desc>Stock Weather Lockscreen</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Lockscreen/IdleScreen_Weather.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/Lockscreen/IdleScreen_Weather.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -217,7 +217,7 @@
 			<Name>Weather Wallpaper</Name>
 			<Desc>Stock Weather Wallpaper</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HtcWeatherWallpaper.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/HtcWeatherWallpaper.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -229,7 +229,7 @@
 			<Name>Google Talk</Name>
 			<Desc>Updated Google Talk</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/Talk.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/Talk.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -240,7 +240,7 @@
 			<Name>HTC MediaLink HD</Name>
 			<Desc>Add MediaLink HD Back to your phone. Reboot may be required. Untested.</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/com.htc.wifidisplay.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/com.htc.wifidisplay.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -255,7 +255,7 @@
 			<Name>DSPManager</Name>
 			<Desc>From CyanogenMod. Reboot After Download</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/DSPManager.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Extra%20Apps/DSPManager.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -266,7 +266,7 @@
 			<Name>FDroid</Name>
 			<Desc>Download Many Open Source Apps</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/org.fdroid.fdroid_16.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Extra%20Apps/org.fdroid.fdroid_16.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -277,7 +277,7 @@
 			<Name>SwitchKB - Keyboard (IME) Switcher</Name>
 			<Desc>By JerryGNYC - Easily Switch Keyboards</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/JerryGNYCKeyboardSwitch/SwitchKB.2.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Extra%20Apps/JerryGNYCKeyboardSwitch/SwitchKB.2.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -292,7 +292,7 @@
 			<Name>Rosie 360 (No Landscape)</Name>
 			<Desc>cr. Mikey - Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Rosie/4.0%20360/Rosie.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Rosie/4.0%20360/Rosie.apk</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -302,7 +302,7 @@
 			<Name>Rosie 360 (Landscape) - 5x5/8x3 App Drawer</Name>
 			<Desc>cr. tjarnold - Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Rosie/4.0_360_5x5_8x3/Rosie.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Rosie/4.0_360_5x5_8x3/Rosie.apk</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -312,7 +312,7 @@
 			<Name>SwitchKB - Keyboard (IME) Switcher</Name>
 			<Desc>By JerryGNYC - Easily Switch Keyboards</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Extra%20Apps/JerryGNYCKeyboardSwitch/SwitchKB.2.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Extra%20Apps/JerryGNYCKeyboardSwitch/SwitchKB.2.apk</Url>
 			<CheckMD5>0</CheckMD5>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>1</LaunchApp>
@@ -325,7 +325,7 @@
 			<Name>Camera Button to Wake</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Wake/keypad_8960.kl</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Wake/keypad_8960.kl</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -335,7 +335,7 @@
 			<Name>Half-press Camera Button to Search</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Search/keypad_8960.kl</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Search/keypad_8960.kl</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -345,32 +345,32 @@
 			<Name>Camera Button to Wake and Search</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Wake%20Search/keypad_8960.kl</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Mods/Camera%20Button%20Wake%20Search/keypad_8960.kl</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
 		<Element>
-			<Name>HTC Spyware Restoration (R) - May be safe to leave on</Name>
+			<Name>HTC Spyware Restoration (R) - It is safe (and recommended)</Name>
 			<Desc>Why? If you want to update your PRL or Profile, you'll need to flash this.</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADM.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADM.zip</Url>
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/usr/keylayout/</Dest>-->
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
-		<Element>
+		<!--<Element>
 			<Name>HTC Spyware Removal (R)</Name>
 			<Desc>This will undo the installation of the files above.</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADMREM.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADMREM.zip</Url>
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/usr/keylayout/</Dest>-->
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
-		</Element>
+		</Element>-->
 		<!--<Element>
 			<Name>Long-press Volume Buttons to Skip Tracks</Name>
 			<Desc>cr. OMJ - Reboot Phone After Downloading</Desc>
@@ -386,7 +386,7 @@
 			<Name>Volume Buttons to Wake Device</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Mods/Volume%20Keys%20Wake/VolPlusMinus/android.policy.jar</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Mods/Volume%20Keys%20Wake/VolPlusMinus/android.policy.jar</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/framework/</Dest>
 			<DestChmod>0644</DestChmod>
@@ -397,7 +397,7 @@
 			<Name>Restore Volume Button Functionality</Name>
 			<Desc>Reboot Phone After Downloading</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Mods/VolumeButtonsRestore/android.policy.jar</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Mods/VolumeButtonsRestore/android.policy.jar</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/framework/</Dest>
 			<DestChmod>0644</DestChmod>
@@ -408,7 +408,7 @@
 			<Name>Customizable QuickSettings From Old Base</Name>
 			<Desc>cr. aamikam - Reboot Phone After Downloading (Hold Down Settings Button in Menu to Customize)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/SystemUI/QSChangable/SystemUI.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/SystemUI/QSChangable/SystemUI.apk</Url>
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
 			<RebootRecovery>0</RebootRecovery>
@@ -422,7 +422,7 @@
 			<Name>Aluminum</Name>
 			<Desc>Stock Aluminum Skin</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Aluminum.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Skins/Aluminum.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest>
@@ -432,7 +432,7 @@
     		<Element>
 			<Name>Fracture</Name>
 			<Desc>Stock Fracture Skin</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Fracture.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Skins/Fracture.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -443,7 +443,7 @@
     		<Element>
 			<Name>Infinite</Name>
 			<Desc>Stock Infinite Skin</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Infinite.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Skins/Infinite.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -454,7 +454,7 @@
     		<Element>
 			<Name>Matte</Name>
 			<Desc>Stock Matte Skin</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Matte.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Skins/Matte.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -465,7 +465,7 @@
     		<Element>
 			<Name>Serene</Name>
 			<Desc>Stock Serene Skin</Desc>
-			<Url>http://androidfilehost.com/closeone/UREVO/Stock/Skins/Serene.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Skins/Serene.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<Dest>/system/app/</Dest><!-- move on directory leave blank or delete for no move -->
@@ -477,7 +477,7 @@
 			<Name>Memories</Name>
 			<Desc>HTC Memories Skin</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.Memories.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.Memories.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -488,7 +488,7 @@
 			<Name>Music Lover</Name>
 			<Desc>HTC Music Lover Skin</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.MusicLover.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.MusicLover.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -499,7 +499,7 @@
 			<Name>Painting The World</Name>
 			<Desc>HTC Painting The World Skin</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.PaintingTheWorld.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.PaintingTheWorld.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -510,7 +510,7 @@
 			<Name>Purple Passion</Name>
 			<Desc>HTC Purple Passion Skin</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.PurplePassion.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.PurplePassion.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -521,7 +521,7 @@
 			<Name>Spaceship Earth</Name>
 			<Desc>HTC Spaceship Earth Skin</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.SpaceshipEarth.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/ThemesSkins/HTC/com.htc.skin.SpaceshipEarth.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -536,7 +536,7 @@
 			<Name>Default UR/EVO SIX Font (R)</Name>
 			<Desc>Roboto Slim Restore ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Fonts/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -547,7 +547,7 @@
 			<Name>Roboto Standard (R)</Name>
 			<Desc>Default ICS Font ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Fonts/ICS%20Font%20-%20Roboto%20Standard.zip?dl=1</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/ICS%20Font%20-%20Roboto%20Standard.zip?dl=1</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -558,7 +558,7 @@
 			<Name>Ubuntu (R)</Name>
 			<Desc>Ubuntu Font ZIP</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/Fonts/Ubuntu%20Font%20-%20Flashable.zip</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/Ubuntu%20Font%20-%20Flashable.zip</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -573,7 +573,7 @@
 			<Name>Iced Chaos by Pneuma</Name>
 			<Desc>Apply - Personalize - Skin - Iced Chaos - Apply</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://androidfilehost.com/closeone/UREVO/ThemesSkins/Pneuma/IcedChaos.apk</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/ThemesSkins/Pneuma/IcedChaos.apk</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
