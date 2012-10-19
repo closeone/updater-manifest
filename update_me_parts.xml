@@ -378,7 +378,7 @@
 			<ExternalLink>0</ExternalLink>
 			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/HTCOMADM/HTCOMADMREM.zip</Url>
 			<CheckMD5>0</CheckMD5>
-			<!--<Dest>/system/usr/keylayout/</Dest>-->
+			<Dest>/system/usr/keylayout/</Dest>
 			<RebootRecovery>1</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>-->
