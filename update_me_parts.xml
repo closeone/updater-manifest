@@ -258,6 +258,17 @@
 			<RebootRecovery>0</RebootRecovery>
 			<LaunchApp>0</LaunchApp>
 		</Element>
+		<Element>
+			<Name>HTC FriendStream (R)</Name>
+			<Desc>Add FriendStream Back to your phone. Phone will reboot into Recovery. Untested.</Desc>
+			<ExternalLink>0</ExternalLink>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Stock/Apps/friendstream.zip</Url>
+			<!--<Version>1.0.0</Version>-->
+			<CheckMD5>0</CheckMD5>
+			<!--<Dest>/system/app/</Dest>-->
+			<RebootRecovery>1</RebootRecovery>
+			<LaunchApp>0</LaunchApp>
+		</Element>
   </Tab>
   <Tab>
 		<Name>Extra Apps (3)</Name>
