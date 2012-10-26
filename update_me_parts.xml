@@ -558,7 +558,7 @@
 			<Name>Default UR/EVO SIX Font (R)</Name>
 			<Desc>Roboto Slim Restore ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/JB%20Font%20-%20Roboto%20Slim.zip?dl=1</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/JB%20Font%20-%20Roboto%20Slim.zip</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
@@ -569,7 +569,7 @@
 			<Name>Roboto Standard (R)</Name>
 			<Desc>Default ICS Font ZIP (cr. LiquidSolstice)</Desc>
 			<ExternalLink>0</ExternalLink>
-			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/ICS%20Font%20-%20Roboto%20Standard.zip?dl=1</Url>
+			<Url>http://old.androidfilehost.com/closeone/UREVO/Fonts/ICS%20Font%20-%20Roboto%20Standard.zip</Url>
 			<!--<Version>1.0.0</Version>-->
 			<CheckMD5>0</CheckMD5>
 			<!--<Dest>/system/app/</Dest>-->
